@@ -7,9 +7,9 @@
 
 
 ## Overview of the Project
+### Project: WEATHER FORECAST CHANNEL
 This project is a dynamic and responsive Todo List Application built using HTML, CSS, and JavaScript. It enables users to efficiently manage their tasks by allowing them to add, mark as complete, and delete tasks. The application provides a seamless user experience with an intuitive interface and visually appealing design.
 
-### Project: WEATHER FORECAST CHANNEL
 
 ### Objective
 The primary objective of this project is to provide a lightweight and user-friendly task management solution. It focuses on:
