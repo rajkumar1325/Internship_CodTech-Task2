@@ -6,6 +6,10 @@
 
 
 ## Overview of the Project
+![image alt](https://github.com/user-attachments/assets/a25625f0-cce4-4e87-8ef3-53893390e37d)
+![image alt](https://github.com/user-attachments/assets/40948019-5681-4082-9698-898796184313)
+
+
 ### Project: TO-DO LIST WEB APPLICATION
 
 This project is a **dynamic and responsive Todo List Application** built using HTML, CSS, and JavaScript. It enables users to efficiently manage their tasks by allowing them to add, mark as complete, and delete tasks. The application provides a seamless user experience with an intuitive interface and visually appealing design.
